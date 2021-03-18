@@ -1,6 +1,7 @@
-# uefa_scraping
+# UEFA Scraping
 Scraper de datos estadísticos de uefa.com. 
-Práctica 1 de la asignatura "Tipología y ciclo de vida de los datos" del Master en Ciencia de Datos de la UOC
+Práctica 1 de la asignatura *"Tipología y ciclo de vida de los datos"* del Master en Ciencia de Datos de la UOC
+
 # Autores
 
 * Pablo Benito
@@ -15,6 +16,7 @@ Elegir un título que sea descriptivo.
 # Descripción del dataset
 Desarrollar una descripción breve del conjunto de datos que se ha extraído (es necesario que esta descripción tenga sentido con el título
 elegido).
+
 # Representación gráfica
 Presentar esquema o diagrama que identifique el dataset visualmente y el proyecto elegido
 
