@@ -3,8 +3,8 @@ Scraper de datos estadísticos de uefa.com.
 Práctica 1 de la asignatura "Tipología y ciclo de vida de los datos" del Master en Ciencia de Datos de la UOC
 # Autores
 
-Pablo Benito
-Miki
+* Pablo Benito
+* Miki
 
 # Contexto
 Explicar en qué contexto se ha recolectado la información. Explique por qué el sitio web elegido proporciona dicha información.
