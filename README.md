@@ -5,7 +5,7 @@ Práctica 1 de la asignatura *"Tipología y ciclo de vida de los datos"* del Mas
 # Autores
 
 * Pablo Benito
-* Miki
+* Miquel Rived 
 
 # Contexto
 Explicar en qué contexto se ha recolectado la información. Explique por qué el sitio web elegido proporciona dicha información.
