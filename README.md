@@ -45,5 +45,20 @@ under Database Contents License
 # Código
 Adjuntar el código con el que se ha generado el dataset, preferiblemente en Python o, alternativamente, en R.
 
+## URLS
+Datos de jugadores: 
+https://www.uefa.com/uefachampionsleague/season=2021/statistics/round=2001252/players/
+La página a su vez carga esta otra URL con los datos de los jugadores:
+https://www.uefa.com/statistics/uefachampionsleague/season=2021/statistics/round=2001252/players/_loadRemaining.html
+
+Esta segunda página resulta muy sencilla de parsear
+
+
+Información detallada de jugador:
+https://www.uefa.com/uefachampionsleague/clubs/players/250103758--erling-haaland/
+La información del jugador está en el cuerpo del HTML: 
+
 # Dataset
 Publicación del dataset en formato CSV en Zenodo (obtención del DOI) con una breve descripción.
+
+# 
