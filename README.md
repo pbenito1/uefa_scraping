@@ -63,6 +63,25 @@ La información del jugador está en el cuerpo del HTML:
 ----
 Otras fuentes de información:
 
+https://towardsdatascience.com/web-scraping-advanced-football-statistics-11cace1d863a
+
+En esta URL se explica bastante bien como extraer información a partir de https://understat.com/. En esta web existen estadísticas de varias temporadas y de las grandes ligas de europa.
+
+https://github.com/Urbistondo/sofa-score-scraper
+
+Esta última es un ejemplo de web scrapping a partir de sofa-score. Lo veo demasiado complejo para lo que queremos hacer, pero podemos sacar los links de aquí. A continuación dejo un link de ejemplo de como están los datos para extraerlos:
+https://www.sofascore.com/team/football/real-madrid/2829
+
+Ejemplo de como extraer datos a partir de transfermarkt 
+https://dev.to/lisandramelo/extracting-data-from-transfermarkt-an-introduction-to-webscraping-2i1c
+
+Web de estadísticas de las grandes ligas:
+https://es.whoscored.com/Statistics
+
+Otro ejemplo de Web Scrapping a partir de los equipos de la liga española y de esta web https://fbref.com/en/
+https://www.jorgelopezperez.com/posts/estad%C3%ADsticas-f%C3%BAtbol-fbrefcon-rvest-polite-purrr/
+
+
 
 # Dataset
 Publicación del dataset en formato CSV en Zenodo (obtención del DOI) con una breve descripción.
