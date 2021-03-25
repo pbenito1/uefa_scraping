@@ -62,6 +62,10 @@ La información del jugador está en el cuerpo del HTML:
 
 ----
 Otras fuentes de información:
+- https://fbref.com/en/comps/8/stats/Champions-League-Stats : Descargable en varios formatos
+- https://es.wikipedia.org/wiki/Anexo:Estad%C3%ADsticas_de_la_Liga_de_Campeones_de_la_UEFA 
+- https://www.espn.com/soccer/stats/_/league/uefa.champions Ofrece estadísticas de varias temporadas
+- https://www.whoscored.com/Regions/250/Tournaments/12/Seasons/7804/Stages/17993/Show/Europe-Champions-League-2019-2020 Muy completo. Múltiples ediciones de la Champions League. Estadísticas tanto de futbolístas como de equipos.
 
 
 # Dataset
